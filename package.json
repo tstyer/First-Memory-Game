@@ -1,0 +1,22 @@
+{
+  "name": "first-memory-game",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000m\u0000e\u0000m\u0000o\u0000r\u0000y\u0000-\u0000g\u0000a\u0000m\u0000e\u0000-\u00001\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tstyer/memory-game-1.git"
+  },
+  "author": "Travis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tstyer/memory-game-1/issues"
+  },
+  "homepage": "https://github.com/tstyer/memory-game-1#readme",
+  "devDependencies": {
+    "jest": "^30.0.2"
+  }
+}
